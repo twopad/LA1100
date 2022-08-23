@@ -35,7 +35,8 @@ Ich programiere ein Spiel, indem sich das Program eine zufällige Zahl zwischen 
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+![grafik](https://user-images.githubusercontent.com/110892623/186124023-ec2b2f40-fea1-40c2-98d5-69d69562c284.png)
+
 
 ## 2 Planen
 
