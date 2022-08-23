@@ -18,9 +18,9 @@ Ich programiere ein Spiel, indem sich das Program eine zufällige Zahl zwischen 
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                     |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | muss                | Funktional     | Als Spieler möchte ich eine Zahl erraten, damit ich meine Zeit vertreiben kann. |
+| 1    | muss                | Funktional     | Als Spieler möchte ich eine Zahl eingeben, damit sie mit einer zufälligen verglichen werden kann. |
 | 2    | muss                | Funktional     | Als Progrmierer möchte ich dass, das Program eine zufällige Zahl wischen 1-100 aussucht, damit jedesmal eine neu Zahl erraten werden kann. |
-| 3    |  muss                | Funktional     | Als spieler möchte ich sehen ob die, von mir, eingegebene Zahl Richtig oder FAlsch ist um weitr zu spielen.  |
+| 3    |  muss                | Funktional     | Als spieler möchte ich sehen ob die, von mir, eingegebene Zahl Richtig oder Falsch ist um weitr zu spielen.  |
 | 4     | kann             | Funktional     |Als Spieler möchte ich vom Program wissen, ob die erratene Zahl zu Gross oder zu klein ist, damit ich weiter raten kann. |
 
 
@@ -28,10 +28,10 @@ Ich programiere ein Spiel, indem sich das Program eine zufällige Zahl zwischen 
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+| 1  | Ich möchte eine Zahl eingeben.              | Zahl       | Program erfasst Zahl.                  |
+| 2  | Das Program wählt eine zufällige Zahl.             | Starten        | Program hat eine Zahl die ich nicht kenne.                  |
+| 3  | Ich möchte wissen ob meine Zahl stimmt.               | Zahl eingeben und vergleicchen        | Richtig oder Falsch                  |
+| 4  | Ich möchte wissen ob meine Zahl zu gross oder zu klein ist. | Zahlen vergichen | Zu gross oder zu klein | 
 
 ### 1.4 Diagramme
 
