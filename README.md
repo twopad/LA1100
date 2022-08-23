@@ -1,8 +1,6 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Warnebold
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -14,7 +12,7 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Ich programiere ein Spiel, indem sich das Program eine zufällige Zahl zwischen 1-100 ausdenkt, danach kann man die ausgedenkte Zahl erraten.
 
 ### 1.2 User Stories
 
