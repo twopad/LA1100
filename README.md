@@ -16,10 +16,12 @@ Ich programiere ein Spiel, indem sich das Program eine zufällige Zahl zwischen 
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
+| US-№ | Verbindlichkeit | Typ  | Beschreibung                     |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    | muss                | Funktional     | Als Spieler möchte ich eine Zahl erraten, damit ich meine Zeit vertreiben kann. |
+| 2    | muss                | Funktional     | Als Progrmierer möchte ich dass, das Program eine zufällige Zahl wischen 1-100 aussucht, damit jedesmal eine neu Zahl erraten werden kann. |
+| 3    |  muss                | Funktional     | Als spieler möchte ich sehen ob die, von mir, eingegebene Zahl Richtig oder FAlsch ist um weitr zu spielen.  |
+| 4     | kann             | Funktional     |Als Spieler möchte ich vom Program wissen, ob die erratene Zahl zu Gross oder zu klein ist, damit ich weiter raten kann. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -57,7 +59,7 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
+| 1.A  |       |           |  3h             |                   |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
