@@ -5,8 +5,8 @@ Warnebold
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 23.08.2022      | 0.0.1   | Ich habe User Stories erstellt und datu die Testfälle. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 30.08.2022      | 0.0.2   |  Ich habe das Spiel programmiert                                                            |
+|       |   |                                                              |
 
 ## 1 Informieren
 
@@ -42,27 +42,27 @@ Ich programiere ein Spiel, indem sich das Program eine zufällige Zahl zwischen 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |  06.09.2022     |   Warnebold        |  Eingabe Programmieren            |   10min            |
+| 2.A |  06.09.2022     | Warnebold  |   Zufallszahl generieren        |  20min         | 
+| 3.A |  06.09.2022     | Warnebold  |   überprüfung programmieren        |  30min         | 
+| 4.A |  06.09.2022     | Warnebold  |   ausgabe zu gross oder zu klein        |  20min         | 
 
 Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+1h
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Genug Zeit nehmen
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
-| ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |  3h             |                   |
-| ...  |       |           |               |                   |
-
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+| ---- | ----- | --------- | ------------- | ----------------- |                   
+| 1.A     |  30.08.2022     |   Warnebold       |   10min            |      10min             |
+|  2.A    | 30.08.2022       |   Warnebold Warnebold        |     20min          |     10min              |
+|  3.A    | 30.08.2022       |  Warnebold        |   30min            |     45min              |
+| 4.A     |  30.08.2022      |   Warnebold         |    20min           |     20min              |
+.
 
 ## 5 Kontrollieren
 
@@ -70,10 +70,10 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
+| 1.1  | 30.08.2022      | Funktioniert         |   Warnebold     |
 | ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+
 
 ### 5.2 Exploratives Testen
 
