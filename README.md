@@ -18,8 +18,8 @@ Ich programiere ein Spiel, indem sich das Program eine zufällige Zahl zwischen 
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                     |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | muss                | Funktional     | Als Spieler möchte ich eine Zahl eingeben, damit sie mit einer zufälligen verglichen werden kann. |
-| 2    | muss                | Funktional     | Als Progrmierer möchte ich dass, das Program eine zufällige Zahl wischen 1-100 aussucht, damit jedesmal eine neu Zahl erraten werden kann. |
+| 1    | muss                | Funktional     | Als Progrmierer möchte ich dass, das Program eine zufällige Zahl wischen 1-100 aussucht|
+| 2    | muss                | Funktional     | Als Spieler möchte ich die zufällige Zahl erraten. |
 | 3    |  muss                | Funktional     | Als spieler möchte ich sehen ob die, von mir, eingegebene Zahl Richtig oder Falsch ist um weitr zu spielen.  |
 | 4     | kann             | Funktional     |Als Spieler möchte ich vom Program wissen, ob die erratene Zahl zu Gross oder zu klein ist, damit ich weiter raten kann. |
 
@@ -28,10 +28,10 @@ Ich programiere ein Spiel, indem sich das Program eine zufällige Zahl zwischen 
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1  | Ich möchte eine Zahl eingeben.              | Zahl       | Program erfasst Zahl.                  |
-| 2  | Das Program wählt eine zufällige Zahl.             | Starten        | Program hat eine Zahl die ich nicht kenne.                  |
-| 3  | Ich möchte wissen ob meine Zahl stimmt.               | Zahl eingeben und vergleicchen        | Richtig oder Falsch                  |
-| 4  | Ich möchte wissen ob meine Zahl zu gross oder zu klein ist. | Zahlen vergichen | Zu gross oder zu klein | 
+| 1.1  | Das Program wählt eine zufällige Zahl.               | Starten       | Zufallszahl zwischen 1-100 erstellt           |
+| 2.1 | Zahl erraten.             | Zahl        |   Richtig/Falsch                | 
+| 3.1 | Ich möchte wissen ob meine Zahl zu gross oder zu klein ist        | Zahl       | zu gross/zu klein                  |
+ 
 
 ### 1.4 Diagramme
 
@@ -42,13 +42,12 @@ Ich programiere ein Spiel, indem sich das Program eine zufällige Zahl zwischen 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  06.09.2022     |   Warnebold        |  Eingabe Programmieren            |   10min            |
-| 2.A |  06.09.2022     | Warnebold  |   Zufallszahl generieren        |  20min         | 
-| 3.A |  06.09.2022     | Warnebold  |   überprüfung programmieren        |  30min         | 
-| 4.A |  06.09.2022     | Warnebold  |   ausgabe zu gross oder zu klein        |  20min         | 
+| 1.A  |  06.09.2022     |   Warnebold        |  Zufallszahl generieren            |   20min            |
+| 2.A |  06.09.2022     | Warnebold  |   Zufallszahl und eingabe vergleichen        |  30min         | 
+| 3.A |  06.09.2022     | Warnebold  |   ausgabe zu gross oder zu klein        |  30min         | 
 
 Total: 
-1h
+120min
 
 ## 3 Entscheiden
 
@@ -58,10 +57,10 @@ Genug Zeit nehmen
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |                   
-| 1.A     |  30.08.2022     |   Warnebold       |   10min            |      10min             |
-|  2.A    | 30.08.2022       |   Warnebold Warnebold        |     20min          |     10min              |
-|  3.A    | 30.08.2022       |  Warnebold        |   30min            |     45min              |
-| 4.A     |  30.08.2022      |   Warnebold         |    20min           |     20min              |
+| 1.A     |  30.08.2022     |   Warnebold       |   20min            |      15min             |
+|  2.A    | 30.08.2022       |   Warnebold Warnebold        |     30min          |     30min              |
+|  3.A    | 30.08.2022       |  Warnebold        |   30min            |     25min              |
+
 .
 
 ## 5 Kontrollieren
