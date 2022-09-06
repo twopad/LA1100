@@ -77,7 +77,7 @@ Genug Zeit nehmen
 | ---- | ----- | -------- | ------ |
 | 1.1  | 30.08.2022      | Zahl zwischen 1-100        |   Warnebold     |
 | 2.1  | 30.08.2022      |  Richtig/Falsch        |  Warnebold      |
-| 2.2 | 06.09.2022 | Verlorn | Warnebold |
+| 2.2 | 06.09.2022 | Verloren | Warnebold |
 | 2.3 | 06.08.2022 | Fehler im Code | Warnebold |
 | 3.1 | 30.08.2022 | zu gross/zu klein | Warnebold |
 
