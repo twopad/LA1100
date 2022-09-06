@@ -63,8 +63,8 @@ Genug Zeit nehmen
 | ---- | ----- | --------- | ------------- | ----------------- |                   
 | 1.A     |  30.08.2022     |   Warnebold       |   20min            |      15min             |
 |  2.A    | 30.08.2022       |   Warnebold   |     30min          |     30min              |
-| 2.B | 06.09.2022 | Warnebold | 20min | TBC |
-| 2.C | 06.09.2022 | Warnebold | 45min | TBC |
+| 2.B | 06.09.2022 | Warnebold | 20min | 10min |
+| 2.C | 06.09.2022 | Warnebold | 45min | 75min |
 |  3.A    | 30.08.2022       |  Warnebold        |   30min            |     25min              |
 
 .
@@ -77,7 +77,7 @@ Genug Zeit nehmen
 | ---- | ----- | -------- | ------ |
 | 1.1  | 30.08.2022      | Zahl zwischen 1-100        |   Warnebold     |
 | 2.1  | 30.08.2022      |  Richtig/Falsch        |  Warnebold      |
-| 2.2 | 06.09.2022 | TBC | Warnebold |
+| 2.2 | 06.09.2022 | Verlorn | Warnebold |
 | 2.3 | 06.08.2022 | Fehler im Code | Warnebold |
 | 3.1 | 30.08.2022 | zu gross/zu klein | Warnebold |
 
