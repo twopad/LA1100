@@ -30,7 +30,8 @@ Ich programiere ein Spiel, indem sich das Program eine zufällige Zahl zwischen 
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Das Program wählt eine zufällige Zahl.               | Starten       | Zufallszahl zwischen 1-100 erstellt           |
 | 2.1 | Zahl erraten.             | 1        |   Richtig/Falsch                | 
-| 2.2 | Keine Zahl einggeben  | abc  | Error. Zahl erneut eingeben  |
+| 2.2 | Maximal 5 versuche | 1,1,1,1,1 | Verloren |
+| 2.3 | Keine Zahl einggeben  | abc  | Error. Zahl erneut eingeben  |
 | 3.1 | Ich möchte wissen ob meine Zahl zu gross oder zu klein ist        | 1      | zu gross/zu klein                  |
  
 
@@ -43,13 +44,14 @@ Ich programiere ein Spiel, indem sich das Program eine zufällige Zahl zwischen 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  06.09.2022     |   Warnebold        |  Zufallszahl generieren            |   20min            |
-| 2.A |  06.09.2022     | Warnebold  |   Zufallszahl und eingabe vergleichen        |  30min         | 
-| 2.B | 06.09.2022 | Warnebold | wenn keine Zahl eingegeben wird soll es erneut fragen | 45min |
-| 3.A |  06.09.2022     | Warnebold  |   ausgabe zu gross oder zu klein        |  30min         | 
+| 1.A  |  30.08.2022     |   Warnebold        |  Zufallszahl generieren            |   20min            |
+| 2.A |  30.08.2022     | Warnebold  |   Zufallszahl und eingabe vergleichen        |  30min         | 
+| 2.B | 06.09.2022 | Warnebold | Eine maximal Anzahl von Versüchen | 20min |
+| 2.C | 06.09.2022 | Warnebold | wenn keine Zahl eingegeben wird soll es erneut fragen | 45min |
+| 3.A | 30.08.2022     | Warnebold  |   ausgabe zu gross oder zu klein        |  30min         | 
 
 Total: 
-165min
+185min
 
 ## 3 Entscheiden
 
@@ -61,7 +63,8 @@ Genug Zeit nehmen
 | ---- | ----- | --------- | ------------- | ----------------- |                   
 | 1.A     |  30.08.2022     |   Warnebold       |   20min            |      15min             |
 |  2.A    | 30.08.2022       |   Warnebold   |     30min          |     30min              |
-| 2.B | 06.09.2022 | Warnebold | 45min | TBC |
+| 2.B | 06.09.2022 | Warnebold | 20min | TBC |
+| 2.C | 06.09.2022 | Warnebold | 45min | TBC |
 |  3.A    | 30.08.2022       |  Warnebold        |   30min            |     25min              |
 
 .
@@ -72,10 +75,11 @@ Genug Zeit nehmen
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  | 30.08.2022      | Funktioniert         |   Warnebold     |
-| ...  |       |          |        |
-
-
+| 1.1  | 30.08.2022      | Zahl zwischen 1-100        |   Warnebold     |
+| 2.1  | 30.08.2022      |  Richtig/Falsch        |  Warnebold      |
+| 2.2 | 06.09.2022 | TBC | Warnebold |
+| 2.3 | 06.08.2022 | Fehler im Code | Warnebold |
+| 3.1 | 30.08.2022 | zu gross/zu klein | Warnebold |
 
 ### 5.2 Exploratives Testen
 
