@@ -45,10 +45,11 @@ Ich programiere ein Spiel, indem sich das Program eine zufällige Zahl zwischen 
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |  06.09.2022     |   Warnebold        |  Zufallszahl generieren            |   20min            |
 | 2.A |  06.09.2022     | Warnebold  |   Zufallszahl und eingabe vergleichen        |  30min         | 
+| 2.B | 06.09.2022 | Warnebold | wenn keine Zahl eingegeben wird soll es erneut fragen | 45min |
 | 3.A |  06.09.2022     | Warnebold  |   ausgabe zu gross oder zu klein        |  30min         | 
 
 Total: 
-120min
+165min
 
 ## 3 Entscheiden
 
@@ -59,7 +60,8 @@ Genug Zeit nehmen
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |                   
 | 1.A     |  30.08.2022     |   Warnebold       |   20min            |      15min             |
-|  2.A    | 30.08.2022       |   Warnebold Warnebold        |     30min          |     30min              |
+|  2.A    | 30.08.2022       |   Warnebold   |     30min          |     30min              |
+| 2.B | 06.09.2022 | Warnebold | 45min | TBC |
 |  3.A    | 30.08.2022       |  Warnebold        |   30min            |     25min              |
 
 .
