@@ -29,9 +29,9 @@ Ich programiere ein Spiel, indem sich das Program eine zufällige Zahl zwischen 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Das Program wählt eine zufällige Zahl.               | Starten       | Zufallszahl zwischen 1-100 erstellt           |
-| 2.1 | Zahl erraten.             | Zahl        |   Richtig/Falsch                | 
+| 2.1 | Zahl erraten.             | 1        |   Richtig/Falsch                | 
 | 2.2 | Keine Zahl einggeben  | abc  | Error. Zahl erneut eingeben  |
-| 3.1 | Ich möchte wissen ob meine Zahl zu gross oder zu klein ist        | Zahl       | zu gross/zu klein                  |
+| 3.1 | Ich möchte wissen ob meine Zahl zu gross oder zu klein ist        | 1      | zu gross/zu klein                  |
  
 
 ### 1.4 Diagramme
