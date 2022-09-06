@@ -5,8 +5,8 @@ Warnebold
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 23.08.2022      | 0.0.1   | Ich habe User Stories erstellt und datu die Testfälle. |
-| 30.08.2022      | 0.0.2   |  Ich habe das Spiel programmiert                                                            |
-|       |   |                                                              |
+| 30.08.2022      | 0.0.2   |  Ich habe das Spiel programmiert.|
+| 06.09.2022      | 0.0.3  |   Ich habe eine maximale Anzahl an Versuchen hinzugefügt.|
 
 ## 1 Informieren
 
