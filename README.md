@@ -28,11 +28,11 @@ Ich programiere ein Spiel, indem sich das Program eine zufällige Zahl zwischen 
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Das Program wählt eine zufällige Zahl.               | Starten       | Zufallszahl zwischen 1-100 erstellt           |
+| 1.1  | Das Program wählt eine zufällige Zahl.               | Starten      | Zufallszahl zwischen 1-100 erstellt          |
 | 2.1 | Zahl erraten.             | 1        |   Richtig/Falsch                | 
-| 2.2 | Maximal 5 versuche | 1,1,1,1,1 | Verloren |
+| 2.2 | Maximal 5 versuche | 5 mal 1 | Verloren, alle Versuche verbraucht. Die Zahl War: |
 | 2.3 | Keine Zahl einggeben  | abc  | Error. Zahl erneut eingeben  |
-| 3.1 | Ich möchte wissen ob meine Zahl zu gross oder zu klein ist        | 1      | zu gross/zu klein                  |
+| 3.1 | Ich möchte wissen ob meine Zahl zu gross oder zu klein ist        | 50      | zu gross/zu klein                  |
  
 
 ### 1.4 Diagramme
@@ -67,7 +67,7 @@ Genug Zeit nehmen
 | 2.C | 06.09.2022 | Warnebold | 45min | 75min |
 |  3.A    | 30.08.2022       |  Warnebold        |   30min            |     25min              |
 
-.
+
 
 ## 5 Kontrollieren
 
@@ -75,9 +75,9 @@ Genug Zeit nehmen
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  | 30.08.2022      | Zahl zwischen 1-100        |   Warnebold     |
+| 1.1  | 30.08.2022      | Zufallzahl zwischen 1-100 erstellt       |   Warnebold     |
 | 2.1  | 30.08.2022      |  Richtig/Falsch        |  Warnebold      |
-| 2.2 | 06.09.2022 | Verloren | Warnebold |
+| 2.2 | 06.09.2022 | Verloren, alle Versuche verbraucht. Die Zahl War: | Warnebold |
 | 2.3 | 06.08.2022 | Fehler im Code | Warnebold |
 | 3.1 | 30.08.2022 | zu gross/zu klein | Warnebold |
 
