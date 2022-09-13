@@ -85,10 +85,10 @@ Genug Zeit nehmen
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
+| I    | Ich musste eine Zufälligezahl eingeben, habe aber Buchstaben eigegeben.      |  Buchstaben       |   Stürzt ab                |      Stürzt ab           |
+| II   |  Ich musste eine Zufälligezahl eingeben, habe aber Dezimalzahlen eigegeben.  |  Dezimalzahlen    |   Stürzt ab                |      Stürzt ab           |
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+
 
 ## 6 Auswerten
 
