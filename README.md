@@ -75,11 +75,11 @@ Genug Zeit nehmen
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  | 30.08.2022      | Zufallzahl zwischen 1-100 erstellt       |   Warnebold     |
-| 2.1  | 30.08.2022      |  Richtig/Falsch        |  Warnebold      |
-| 2.2 | 06.09.2022 | Verloren, alle Versuche verbraucht. Die Zahl War: | Warnebold |
-| 2.3 | 06.08.2022 | Fehler im Code | Warnebold |
-| 3.1 | 30.08.2022 | zu gross/zu klein | Warnebold |
+| 1.1  | 30.08.2022      | True     |   Warnebold     |
+| 2.1  | 30.08.2022      |  True        |  Warnebold      |
+| 2.2 | 06.09.2022 | True | Warnebold |
+| 2.3 | 06.08.2022 | False | Warnebold |
+| 3.1 | 30.08.2022 | True | Warnebold |
 
 ### 5.2 Exploratives Testen
 
