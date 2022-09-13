@@ -18,7 +18,7 @@ Ich programiere ein Spiel, indem sich das Program eine zufällige Zahl zwischen 
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                     |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | muss                | Funktional     | Als Progrmierer möchte ich dass, das Program eine zufällige Zahl wischen 1-100 aussucht|
+| 1    | muss                | Funktional     | Als Progrmierer möchte ich dass, das Program eine zufällige Zahl wischen 1-100 generiert|
 | 2    | muss                | Funktional     | Als Spieler möchte ich die zufällige Zahl erraten. |
 | 3    |  muss                | Funktional     | Als spieler möchte ich sehen ob die, von mir, eingegebene Zahl Richtig oder Falsch ist um weitr zu spielen.  |
 | 4     | kann             | Funktional     |Als Spieler möchte ich vom Program wissen, ob die erratene Zahl zu Gross oder zu klein ist, damit ich weiter raten kann. |
@@ -28,7 +28,7 @@ Ich programiere ein Spiel, indem sich das Program eine zufällige Zahl zwischen 
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Das Program wählt eine zufällige Zahl.               | Starten      | Zufallszahl zwischen 1-100 erstellt          |
+| 1.1  | Das Program generiert eine zufällige Zahl.               | Starten      | Zufallszahl zwischen 1-100 erstellt          |
 | 2.1 | Zahl erraten.             | 1        |   Richtig/Falsch                | 
 | 2.2 | Maximal 5 versuche | 5 mal 1 | Verloren, alle Versuche verbraucht. Die Zahl War: |
 | 2.3 | Keine Zahl einggeben  | abc  | Error. Zahl erneut eingeben  |
